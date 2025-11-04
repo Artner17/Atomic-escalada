@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/aula200"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "atomic_escalada_canoinhas"
+	}
+}
